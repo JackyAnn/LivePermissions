@@ -27,5 +27,4 @@ dependencies {
     testImplementation 'junit:junit:latest.release'
     androidTestImplementation 'com.android.support.test:runner:latest.release'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:latest.release'
-
 }
